@@ -92,13 +92,6 @@ One of the original textbooks for ML; PDF available online.
  http://www.cs.cmu.edu/~tom/mlbook.html
 
 
-5. Fast.ai Practical Deep Learning Course
-Practical ML with deep learning; beginner-friendly.
- https://course.fast.ai/
-
-
-6. Google’s Machine Learning Crash Course
- https://developers.google.com/machine-learning/crash-course
 
 
 
