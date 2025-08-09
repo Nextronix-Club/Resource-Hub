@@ -1,10 +1,10 @@
-# 📚 Free Robotics Books (PDF / Web Access)
+📚 Free Robotics Books (PDF / Web Access)
 
 A curated list of completely free and legal robotics books for beginners to advanced learners.
 
 ---
 
-## 🧠 Beginner to Intermediate Robotics Books
+🧠 Beginner to Intermediate Robotics Books
 
 1. Modern Robotics: Mechanics, Planning, and Control  
    Authors: Kevin M. Lynch and Frank C. Park  
@@ -29,7 +29,7 @@ A curated list of completely free and legal robotics books for beginners to adva
 
 ---
 
-## 🤖 Advanced Robotics Books
+🤖 Advanced Robotics Books
 
 5. A Mathematical Introduction to Robotic Manipulation  
    Authors: Richard M. Murray, Zexiang Li, S. Shankar Sastry  
@@ -48,7 +48,7 @@ A curated list of completely free and legal robotics books for beginners to adva
 
 ---
 
-## 🛠️ Related: Embedded Systems
+🛠️ Related: Embedded Systems
 
 8. Embedded System Design  
    Author: Peter Marwedel  
