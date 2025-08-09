@@ -32,11 +32,7 @@ Link: [Robotics with Raspberry Pi](https://projects.raspberrypi.org/en/pathways/
 Focus: Ubuntu, Gazebo simulator, ROS basics.  
 Link: [Intro to Robotics Tools – LTU](https://www.ltu.se/en/education/skills-development-for-professionals/search-moocs/mooc-introduction-to-robotics-tools)
 
-9. Coursera (Audit) – Introduction to Robotics with Webots  
-Focus: Motion, odometry, mapping, trajectory generation (Webots simulator).  
-Link: [Intro to Robotics with Webots – Coursera](https://www.coursera.org/learn/robotics-with-webots)
-
-10. Federica Web Learning – Robotics and Robots Program  
+9. Federica Web Learning – Robotics and Robots Program  
 Focus: Theory, design, interaction, and social impact of robotics.  
 Link: [Robotics and Robots – Federica](https://www.federica.eu/federica-pro/robotics-and-robots/)
 
